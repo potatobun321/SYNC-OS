@@ -15,10 +15,8 @@ cd hands
 
 # Activate virtual environment (replace with your actual env path if needed)
 
----
 source ~/gesture_env/bin/activate
 
 # Install dependencies
 
----
 pip install opencv-python mediapipe pynput
