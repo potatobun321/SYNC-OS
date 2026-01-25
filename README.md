@@ -1,6 +1,3 @@
-Here’s a clean, GitHub-ready **README rewrite** with clearer structure, smoother flow, and a professional open-source tone. You can paste this directly into your repo.
-
----
 
 # SYNC-OS
 
