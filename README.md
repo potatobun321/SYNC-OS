@@ -1,8 +1,6 @@
 
 # SYNC-OS
 
-*A Real-Time Hand Gesture–Based Computer Control System*
-
 SYNC-OS is a real-time, gesture-based desktop interaction prototype built using **Python**, **OpenCV**, **MediaPipe**, and **pynput**. It enables users to control core system functions—such as mouse movement and system volume—using natural hand and finger gestures, without physically touching any hardware.
 
 This project demonstrates the potential of computer vision in creating intuitive, touchless human–computer interfaces.
@@ -53,6 +51,7 @@ hands/
 ---
 
 ## Setup Instructions
+
 
 ### 1. Clone the Repository
 
