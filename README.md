@@ -54,10 +54,6 @@ hands/
 
 ## Setup Instructions
 
-Follow these steps to install and run **SYNC-OS**.
-
----
-
 ### 1. Clone the Repository
 
 ```bash
